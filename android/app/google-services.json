@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938287238617",
+    "firebase_url": "https://db-app2-58ff3.firebaseio.com",
+    "project_id": "db-app2-58ff3",
+    "storage_bucket": "db-app2-58ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938287238617:android:20c6af546b86d5fd",
+        "android_client_info": {
+          "package_name": "com.viktor93.instapost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938287238617-sp02caut0fm4vf0225a6mulo0v246a66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viktor93.instapost",
+            "certificate_hash": "722e4c4b9c27230b2efe925315391693062d3141"
+          }
+        },
+        {
+          "client_id": "938287238617-dmke47ior902tr3daktpjtntqtdmesi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUl5nxyXP90oRiXr2mRIAs1BqdQrVomo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938287238617-dmke47ior902tr3daktpjtntqtdmesi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
