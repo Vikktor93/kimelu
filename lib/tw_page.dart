@@ -13,7 +13,6 @@ class TwPage extends StatefulWidget {
   _TwPageState createState() => new _TwPageState();
 }
 
-
 class _TwPageState extends State<TwPage> {
   //login twitter
   static final TwitterLogin twitterLogin = new TwitterLogin(
