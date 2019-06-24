@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-
 void main() => runApp(HomePage());
 
 class HomePage extends StatelessWidget {
@@ -30,8 +29,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
   static const List<Widget> _widgetOptions = <Widget>[
     Text(
       'Index 0: Inicio',
-      style: optionStyle,
-
+       style: optionStyle,
     ),
     Text(
       'Index 1: Tickets',
