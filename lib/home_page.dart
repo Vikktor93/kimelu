@@ -5,7 +5,7 @@ void main() => runApp(HomePage());
 
 class HomePage extends StatelessWidget {
   static String tag = 'home-page';
-  static const String _title = 'Flutter Code Sample';
+  static const String _title = 'Inicio';
 
   @override
   Widget build(BuildContext context) {
