@@ -16,8 +16,8 @@ class TwPage extends StatefulWidget {
 class _TwPageState extends State<TwPage> {
   //login twitter
   static final TwitterLogin twitterLogin = new TwitterLogin(
-    consumerKey: 'r7Wo5Ek4U5ZppjkRaKFl6rRgX',
-    consumerSecret: 'iMu8qBlyOjQ33ld8an8MOPBSPQUnGkRCrAbWmvKpsBj2JrN9mR',
+    consumerKey: '#################',
+    consumerSecret: '###################################',
   );
 
   String _mensaje = 'Estado: Desconectado';
